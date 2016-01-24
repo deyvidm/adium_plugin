@@ -14,9 +14,9 @@ Rot13 (rotation 13) is a very simple cypher. All it does is "rotate" every lette
 
 ###To install 
 
-First you need [Adium][Adium] installed. Once that's done, download this and simple double click it. Adium will take care of the rest. 
+First you need [Adium] installed. Once that's done, download this and simple double click it. Adium will take care of the rest. 
 
-[Adium] : https://adium.im
+[Adium]: https://adium.im
 
 ###To use
 
