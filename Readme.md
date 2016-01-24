@@ -1,10 +1,10 @@
 # Adium rot13 plugin
 
-Adium is an osx instant messenger app. Rot13 is a very simple cypher used to encrypt and decrypt plaintext data. 
+Adium is an OSX instant messaging app. Rot13 is a very simple cypher used to encrypt and decrypt plaintext data. 
 
 ###Rot13 
 
-Rot13 (rotation 13) is a very simple cypher. All it does is "rotate" every letter 13 times forwards in the alphabet. Here is a very simple chart 
+Rot13 (rotation 13) is a simple cypher that "rotates" every letter 13 times forwards in the alphabet. Here is a chart:  
 
 |Input  letter |a|b|c|d|e|f|g|h|i|j|k|l|m|n|o|p|q|r|s|t|u|v|w|x|y|z|
 |--------------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
