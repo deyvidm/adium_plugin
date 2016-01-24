@@ -1,0 +1,29 @@
+<dict>
+        <key>CFBundleDevelopmentRegion</key>
+        <string>English</string>
+        <key>CFBundleGetInfoString</key>
+        <string>Simple Rot13</string>
+        <key>CFBundleIdentifier</key>
+        <string>com.adiumx.rot13.scripts</string>
+        <key>CFBundleInfoDictionaryVersion</key>
+        <string>1.0</string>
+        <key>CFBundleName</key>
+        <string>Rot13</string>
+        <key>CFBundlePackageType</key>
+        <string>AdIM</string>
+        <key>Scripts</key>
+        <array>
+                <dict>
+			<key>Arguments</key>
+			<string>T</string>
+                        <key>File</key>
+                        <string>rot13</string>
+                        <key>Keyword</key>
+                        <string>%_rot</string>
+                        <key>Title</key>
+                        <string>Rot13</string>
+                </dict>
+
+        </array>
+</dict>
+
